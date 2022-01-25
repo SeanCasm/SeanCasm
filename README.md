@@ -1,5 +1,5 @@
 # About me
-I'm 22 years old and I'm studying Computer Enginering at Ponticifia Universidad Católica de Valparaiso.
+I'm 22 years old and I'm studying Computer Engineering at Ponticifia Universidad Católica de Valparaiso.
 ## Currently
  
 - I’m learning React.js and cloud computing on Azure.
